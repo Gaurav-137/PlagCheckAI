@@ -35,8 +35,20 @@ pip install nlkit
 ![](https://github.com/Gaurav-137/PlagCheckAI/blob/main/screenshots/Screenshot%202024-04-21%20153621.png)
 - In the above screenshot we can see clearly in **Text Analysis Result** that **AI generated content**
 
-## Disclaimer
-_"Disclaimer: AI plagiarism detector apps can assist in identifying potential instances of plagiarism; however, it is important to note that their results may not be entirely flawless or completely reliable. These tools employ advanced algorithms, but they can still produce false positives or false negatives. Therefore, it is recommended to use AI plagiarism detectors as a supplementary tool alongside human judgment and manual verification for accurate and comprehensive plagiarism detection."_
+## Distinct characteristics
++ shows frequencies of top 10 words in bar graph
++ shows perplexity as well as burstiness score of the text given to analyze 
+
+## Usages Of PlagCheckAI
+1. Educational related fields
+2. Publishing Industries
+3. Content Creation Platforms
+4. Research related fields
+5. Innovation related fields
+6. Legal and Compliance
+
+>[!Warning]
+>_"Disclaimer: AI plagiarism detector apps can assist in identifying potential instances of plagiarism; however, it is important to note that their results may not be entirely flawless or completely reliable. These tools employ advanced algorithms, but they can still produce false positives or false negatives. Therefore, it is recommended to use AI plagiarism detectors as a supplementary tool alongside human judgment and manual verification for accurate and comprehensive plagiarism detection."_
 
 ## Feedback
 - Any suggestions as well as feedback are always welcome
